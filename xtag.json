@@ -3,8 +3,7 @@
 	"tagName": "x-none",
 	"version": "0.1.0",
 	"author": "Daniel Buchner",
-	"description": "XHR helper",	
-	"demo": "demo/demo.html",
+	"description": "XHR helper",
 	"categories": ["mixin"],
 	"compatibility": {	
 		"firefox": 5,
@@ -26,10 +25,10 @@
 
 		}, 
 		"getters": {
-			
+			"src": "Gets the current src attribute"
 		},
 		"setters": {
-			
+			"src": "Sets the src attribute and does the request"
 		}
 	}
 }
