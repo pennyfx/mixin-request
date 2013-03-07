@@ -8,7 +8,7 @@
     "request",
     "x-tag"
   ],
-  "scripts": [
+  "main": [
     "src/request.js"
   ],
   "dependencies": {
