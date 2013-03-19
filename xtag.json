@@ -1,11 +1,13 @@
-{	
+{
 	"name": "Request mixin",
 	"tagName": "x-none",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"author": "Daniel Buchner",
 	"description": "XHR helper",
-	"categories": ["mixin"],
-	"compatibility": {	
+	"categories": [
+		"mixin"
+	],
+	"compatibility": {
 		"firefox": 5,
 		"chrome": 4,
 		"ie": 9,
@@ -15,15 +17,9 @@
 	},
 	"documentation": {
 		"description": "",
-		"attributes": { 
-			
-		},
-		"events": {
-			
-		},
-		"methods": {
-
-		}, 
+		"attributes": {},
+		"events": {},
+		"methods": {},
 		"getters": {
 			"src": "Gets the current src attribute"
 		},

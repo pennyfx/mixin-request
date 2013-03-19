@@ -1,11 +1,13 @@
 {
   "name": "x-tag-mixin-request",
-  "version": "0.1.0",  
-  "dependencies": {
-  },
+  "version": "0.1.1",
+  "dependencies": {},
   "devDependencies": {
     "bower": "0.7.0",
     "grunt": "~0.4.0rc7",
-    "grunt-contrib-concat": "~0.1.2rc6"
+    "grunt-contrib-concat": "~0.1.2rc6",
+    "grunt-tagrelease": "~0.2.0",
+    "grunt-bumpup": "~0.2.0",
+    "grunt-smush-components": "~0.1.1"
   }
 }
